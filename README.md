@@ -6,7 +6,6 @@
   <li> Find random songs</li>
   <li> Machine learning to recommend great songs </li>
   <li> Add songs directly to spotify playlist </li>
-  <li> created by Dan Hoberman, and Adam Lee </li>
   <li> Have fun discovering 😁 </li>
 </ul>
 </samp>
