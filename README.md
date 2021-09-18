@@ -7,7 +7,7 @@
   <li> Recommend similar songs </li>
   <li> Add songs directly to spotify playlist </li>
   <li> Have fun discovering 😁 </li>
-  <li> Co-creator: Adam lee <li>
-  <li> Help: Ben Reily <li>
+  <li> Co-creator: Adam lee </li>
+  <li> Help: Ben Reily </li>
 </ul>
 </samp>
