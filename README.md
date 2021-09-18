@@ -8,6 +8,6 @@
   <li> Add songs directly to spotify playlist </li>
   <li> Have fun discovering 😁 </li>
   <li> Co-creator: Adam lee </li>
-  <li> Help: Ben Reily </li>
+  <li> Help: Ben Reilly </li>
 </ul>
 </samp>
